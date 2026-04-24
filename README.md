@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Currently working on Nextjs websites, LLVM GPU integration projects and python F1 comparison GUI<br>Open to collaborate on anything and looking to make my first contribution on opensource projects<br>Learning assembly, Cpp and data analysis in python
 
 
